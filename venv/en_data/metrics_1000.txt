@@ -1,0 +1,3 @@
+Average Log-Likelihood: -70.45566558750309
+Average Train Log-Likelihood: -67.59317395746352
+Accuracy: 0.6074643471224841
